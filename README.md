@@ -14,7 +14,6 @@
 
 Engineering data as a first-class product, not a byproduct. This portfolio features production-ready data solutions — from ingestion to ML model APIs. Built for high performance, this collection includes high-leverage projects on a modern, multi-cloud stack to deliver trustworthy data.
 
-> I believe the next generation of market-leading games will be defined not by their graphics, but by their data-driven ability to create deeply engaging, personalized, and fair player experiences. My mission is to architect and build the intelligent, scalable, and real-time data platforms that make this future a reality.
 
 ## Roadmap:
 
