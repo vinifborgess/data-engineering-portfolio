@@ -1,4 +1,4 @@
-## Vinícius Borges, Data Engineer. See how to engineer's tomorrow's data today.
+## Data Engineering Showcase.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viniciusfborges/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,23 +14,19 @@
 
 ### SHOWCASE: Welcome to my Data Product Hub.
 
-Engineering data as a first-class product, not a byproduct. This portfolio features production-ready data solutions from ingestion to ML model APIs. Built for high performance, this collection includes high-leverage projects on a modern, multi-cloud stack to deliver trustworthy data.
+Engineering data as a first-class product. This portfolio features production-ready data solutions from ingestion to ML model APIs. 
+Built for high performance, this collection includes high-leverage projects on a modern, multi-cloud stack to deliver trustworthy data.
 
 ### Roadmap
 
 Data Engineering as a Product. Building modern, multi-cloud data systems for real-time insights.
 
-| **Month**    | **MVP Delivery**                                  | **Focus**                          | **Key Deliverables**                                                 | **Outcome**                          |
-| :----------- | :------------------------------------------------ | :--------------------------------- | :------------------------------------------------------------------- | :----------------------------------- |
-| **Oct 2025** | **Streaming Live Blockchain Data → BigQuery**  | Real-time data ingestion           | Moralis Streams integration · BigQuery dataset · dbt models          | Live demo + public repo              |
-| **Nov 2025** | **PixelGAN (Fakemon Generator)**               | ML experimentation / generative AI | GAN training pipeline | Interactive model showcase           |
-| **Dec 2025** | **Real-Time Weather Report System**           | IoT / Serverless data streaming    | --   | Deployed MVP + observability enabled |
+| **Month** | **MVP Delivery** | **Focus** | **Key Deliverables** | **Outcome** |
+| :--- | :--- | :--- | :--- | :--- |
+| **--** | **Streaming Live Blockchain Data → BigQuery** | Real-time data ingestion | Moralis Streams integration · BigQuery dataset · dbt models | Live demo + public repo |
+| **--** | **PixelGAN (Fakemon Generator)** | ML experimentation / generative AI | GAN training pipeline | Interactive model showcase |
+| **--** | **Real-Time Weather Report System** | IoT / Serverless data streaming | -- | Deployed MVP + observability enabled |
 
 ### Categories
-
-#### Web3 Data Engineering Projects
-#### Gaming Data Engineering Projects
-#### Quant Data Engineering Projects
-#### Other Industries Projects
 
 ### Let's build the future together.
