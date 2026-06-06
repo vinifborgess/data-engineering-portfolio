@@ -22,7 +22,7 @@ Built for high performance, this collection includes high-leverage projects on a
 Data Engineering as a Product. Building modern, multi-cloud data systems for real-time insights.
 
 | **Month** | **MVP Delivery** | **Focus** | **Key Deliverables** | **Outcome** |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | CS2 Replays (.dem) → Tactical Intelligence | Batch data engineering / sports analytics | awpy parsing · Medallion pipeline (Bronze/Silver/Gold) · Parquet data lake · First Blood impact analysis | Deployable MVP + public repo + tactical report |
 | **--** | **Streaming Live Blockchain Data → BigQuery** | Real-time data ingestion | Moralis Streams integration · BigQuery dataset · dbt models | Live demo + public repo |
 | **--** | **PixelGAN (Fakemon Generator)** | ML experimentation / generative AI | GAN training pipeline | Interactive model showcase |
 | **--** | **Real-Time Weather Report System** | IoT / Serverless data streaming | -- | Deployed MVP + observability enabled |
